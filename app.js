@@ -1,6 +1,6 @@
 //Essa lista irá iniciar com nenhum valor
 let listaDeNumerosSorteados = [];
-let numeroLimite =10;
+let numeroLimite = 100;
 let numeroSecreto = GerarNumeroAleatorio();
 let tentativas = 1;
 
